@@ -1,4 +1,4 @@
-## TR2TXT
+## FR2TXT
 
 This script helps me to write french dictation exersices.
 
