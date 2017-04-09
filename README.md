@@ -2,6 +2,18 @@
 
 This script helps me to write french dictation exersices.
 
+## Result
+
+| input | output |
+| ----- | ------ |
+| Vincent a vu Nadia Ledoux dans la rue.| passants affluent nadia ledoux dans la rue |
+| Elle lui a souri et, depuis, il est amoureux. | hélas ouvriers et depuis il est amoureux |
+| Nadia est brune, elle a les yeux verts, les cheveux courts et bouclés. | nadia et brune hélas les yeux vers les cheveux courts et bouclée |
+| C'est une jolie fille. | cette une jolie fille |
+| Elle mesure 1 mètre 75. | elle mesure un mètre soixante quinze |
+| Un producteur l'a remarquée et elle joue dans la dernier film de Bruno Ouzoulias. | à producteurs la remarquer quel jour dans le dernier |
+| Elle est sublime. | elle sublime |
+
 ## Prerequisites
 VirtualBox with GuestAdditions
 Vagrant
