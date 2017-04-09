@@ -46,6 +46,25 @@ If you have mp3 file, use
 ffmpeg -i file.mp3 file.wav
 ```
 
+## Help
+
+```
+usage: run.py [-h] [-o [OUTPUT]] [-l {fr-FR,en-US}] [-w WIDTH] file
+
+wav to text
+
+positional arguments:
+  file
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -o [OUTPUT], --output [OUTPUT]
+                        output text file
+  -l {fr-FR,en-US}, --lang {fr-FR,en-US}
+  -w WIDTH, --width WIDTH
+                        line width
+```
+
 ### License
 
 This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.txt) file for details
