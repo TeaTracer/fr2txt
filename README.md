@@ -11,7 +11,7 @@ This script helps me to write french dictation exersices.
 | Nadia est brune, elle a les yeux verts, les cheveux courts et bouclés. | nadia et brune hélas les yeux vers les cheveux courts et bouclée |
 | C'est une jolie fille. | cette une jolie fille |
 | Elle mesure 1 mètre 75. | elle mesure un mètre soixante quinze |
-| Un producteur l'a remarquée et elle joue dans la dernier film de Bruno Ouzoulias. | à producteurs la remarquer quel jour dans le dernier |
+| Un producteur l'a remarquée et elle joue dans la dernier film de Bruno Ouzoulias. | à producteurs la remarquer quel jour dans le dernier fine de bruno vous souligne à ce qu' |
 | Elle est sublime. | elle sublime |
 
 ## Prerequisites
